@@ -1,0 +1,15 @@
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\bin\Debug\net8.0\TestProject1.exe
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\bin\Debug\net8.0\TestProject1.deps.json
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\bin\Debug\net8.0\TestProject1.runtimeconfig.json
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\bin\Debug\net8.0\TestProject1.dll
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\bin\Debug\net8.0\TestProject1.pdb
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\obj\Debug\net8.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\obj\Debug\net8.0\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\obj\Debug\net8.0\TestProject1.dll
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\obj\Debug\net8.0\refint\TestProject1.dll
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\obj\Debug\net8.0\TestProject1.pdb
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Документи\GitHub\practice\C# course projects\CsharpSimpleConsoleApps\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
