@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Документи\\GitHub\\practice\\C# course projects\\CsharpSimpleConsoleApps\\TestProject5\\TestProject5.csproj",
+      "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Документи\\GitHub\\learning\\GetStartedWithCsharp\\CsharpSimpleConsoleApps\\TestProject5\\TestProject5.csproj",
       "projectName": "TestProject5",
-      "projectPath": "C:\\Users\\vladi\\OneDrive\\Документи\\GitHub\\practice\\C# course projects\\CsharpSimpleConsoleApps\\TestProject5\\TestProject5.csproj",
+      "projectPath": "C:\\Users\\vladi\\OneDrive\\Документи\\GitHub\\learning\\GetStartedWithCsharp\\CsharpSimpleConsoleApps\\TestProject5\\TestProject5.csproj",
       "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vladi\\OneDrive\\Документи\\GitHub\\practice\\C# course projects\\CsharpSimpleConsoleApps\\TestProject5\\obj\\",
+      "outputPath": "C:\\Users\\vladi\\OneDrive\\Документи\\GitHub\\learning\\GetStartedWithCsharp\\CsharpSimpleConsoleApps\\TestProject5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

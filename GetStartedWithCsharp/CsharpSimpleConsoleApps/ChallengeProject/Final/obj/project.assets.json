@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Документи\\GitHub\\learning\\GetStartedWithCsharp\\CsharpSimpleConsoleApps\\GuidedProject\\Starter\\Starter.csproj",
-      "projectName": "Starter",
-      "projectPath": "C:\\Users\\vladi\\OneDrive\\Документи\\GitHub\\learning\\GetStartedWithCsharp\\CsharpSimpleConsoleApps\\GuidedProject\\Starter\\Starter.csproj",
+      "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Документи\\GitHub\\learning\\GetStartedWithCsharp\\CsharpSimpleConsoleApps\\ChallengeProject\\Final\\Final.csproj",
+      "projectName": "Final",
+      "projectPath": "C:\\Users\\vladi\\OneDrive\\Документи\\GitHub\\learning\\GetStartedWithCsharp\\CsharpSimpleConsoleApps\\ChallengeProject\\Final\\Final.csproj",
       "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vladi\\OneDrive\\Документи\\GitHub\\learning\\GetStartedWithCsharp\\CsharpSimpleConsoleApps\\GuidedProject\\Starter\\obj\\",
+      "outputPath": "C:\\Users\\vladi\\OneDrive\\Документи\\GitHub\\learning\\GetStartedWithCsharp\\CsharpSimpleConsoleApps\\ChallengeProject\\Final\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
