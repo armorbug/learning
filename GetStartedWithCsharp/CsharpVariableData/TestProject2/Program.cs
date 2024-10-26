@@ -87,7 +87,7 @@ message = "";
 decimal sumD = 0;
 foreach (string item in values)
 {
-    if (decimal.TryParse(item, out decimal number))
+    if (decimal.TryParse(item, out decimal number)) //out assigns value if true
     {
         sumD += number;
     }
