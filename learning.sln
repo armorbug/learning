@@ -57,6 +57,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final", "GetStartedWithCsha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "GetStartedWithCsharp\CsharpSimpleConsoleApps\GuidedProject\Starter\Starter.csproj", "{0733A315-CC28-4356-A43B-B770477B2E7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject2", "GetStartedWithCsharp\CsharpVariableData\TestProject2\TestProject2.csproj", "{67DADCD8-848C-4326-BE6A-B09DBF33F563}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,6 +141,10 @@ Global
 		{0733A315-CC28-4356-A43B-B770477B2E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0733A315-CC28-4356-A43B-B770477B2E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0733A315-CC28-4356-A43B-B770477B2E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DADCD8-848C-4326-BE6A-B09DBF33F563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DADCD8-848C-4326-BE6A-B09DBF33F563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DADCD8-848C-4326-BE6A-B09DBF33F563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DADCD8-848C-4326-BE6A-B09DBF33F563}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -170,6 +176,7 @@ Global
 		{F2C3EB36-07B7-44C5-B1CE-80F0F6626969} = {0EC2F7EE-C5EC-4719-9934-B045F165ADE6}
 		{48B23094-D6D2-461E-87FD-D04BA2CF228B} = {F2C3EB36-07B7-44C5-B1CE-80F0F6626969}
 		{0733A315-CC28-4356-A43B-B770477B2E7B} = {F2C3EB36-07B7-44C5-B1CE-80F0F6626969}
+		{67DADCD8-848C-4326-BE6A-B09DBF33F563} = {E319B56A-7E10-44CA-BC99-AC42E150B3E1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2AB335C5-AFAE-4E21-9326-AB8CB273EDC6}
