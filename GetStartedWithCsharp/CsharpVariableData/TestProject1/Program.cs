@@ -37,7 +37,7 @@ int val_B = val_A;
 val_B = 5;
 
 Console.WriteLine("");
-Console.WriteLine("--Value Types--"); //located in the stack
+Console.WriteLine("--Value Types--"); //stored in the stack
 Console.WriteLine($"val_A: {val_A}");
 Console.WriteLine($"val_B: {val_B}");
 
@@ -47,7 +47,7 @@ int[] ref_B = ref_A;
 ref_B[0] = 5;
 
 Console.WriteLine("");
-Console.WriteLine("--Reference Types--"); //located in the heap
+Console.WriteLine("--Reference Types--"); //stored in the heap
 Console.WriteLine($"ref_A[0]: {ref_A[0]}");
 Console.WriteLine($"ref_B[0]: {ref_B[0]}");
 
