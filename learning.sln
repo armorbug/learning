@@ -81,6 +81,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final", "GetStartedWithCsha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "GetStartedWithCsharp\CsharpVariableData\GuidedProject\Starter\Starter.csproj", "{41A44A10-26D2-4121-B574-5DD771AB80E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject2", "GetStartedWithCsharp\CsharpMethods\TestProject2\TestProject2.csproj", "{C276628B-D484-4E22-BF00-A00A4846B63C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -199,6 +201,10 @@ Global
 		{41A44A10-26D2-4121-B574-5DD771AB80E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41A44A10-26D2-4121-B574-5DD771AB80E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41A44A10-26D2-4121-B574-5DD771AB80E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C276628B-D484-4E22-BF00-A00A4846B63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C276628B-D484-4E22-BF00-A00A4846B63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C276628B-D484-4E22-BF00-A00A4846B63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C276628B-D484-4E22-BF00-A00A4846B63C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -242,6 +248,7 @@ Global
 		{1A2DB9DE-A3D1-4F3F-A867-F34C0AE3FDF8} = {493EFF03-B3BF-445A-BBCD-463CF8F44F64}
 		{389E7734-6C10-4471-B1A4-5B4EF3F9731F} = {1A2DB9DE-A3D1-4F3F-A867-F34C0AE3FDF8}
 		{41A44A10-26D2-4121-B574-5DD771AB80E6} = {1A2DB9DE-A3D1-4F3F-A867-F34C0AE3FDF8}
+		{C276628B-D484-4E22-BF00-A00A4846B63C} = {FB5745B0-6565-46BF-BAFE-A1594624AC84}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {13FAF4B9-46AD-4A92-A866-41E16E81786B}
