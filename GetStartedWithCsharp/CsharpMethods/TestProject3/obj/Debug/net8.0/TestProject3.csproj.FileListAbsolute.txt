@@ -1,0 +1,15 @@
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\bin\Debug\net8.0\TestProject3.exe
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\bin\Debug\net8.0\TestProject3.deps.json
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\bin\Debug\net8.0\TestProject3.runtimeconfig.json
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\bin\Debug\net8.0\TestProject3.dll
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\bin\Debug\net8.0\TestProject3.pdb
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\obj\Debug\net8.0\TestProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\obj\Debug\net8.0\TestProject3.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\obj\Debug\net8.0\TestProject3.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\obj\Debug\net8.0\TestProject3.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\obj\Debug\net8.0\TestProject3.sourcelink.json
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\obj\Debug\net8.0\TestProject3.dll
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\obj\Debug\net8.0\refint\TestProject3.dll
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\obj\Debug\net8.0\TestProject3.pdb
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\obj\Debug\net8.0\TestProject3.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Документи\GitHub\learning\GetStartedWithCsharp\CsharpMethods\TestProject3\obj\Debug\net8.0\ref\TestProject3.dll
