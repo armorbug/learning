@@ -10,11 +10,11 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/GetStartedWithCsharp/CsharpDebugging/Exceptions101/bin/Debug/net8.0/Exceptions101.dll",
+            "program": "${workspaceFolder}/GetStartedWithCsharp/CsharpDebugging/ThrowExceptions101/bin/Debug/net8.0/ThrowExceptions101.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/GetStartedWithCsharp/CsharpDebugging/Exceptions101",
+            "cwd": "${workspaceFolder}/GetStartedWithCsharp/CsharpDebugging/ThrowExceptions101",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {

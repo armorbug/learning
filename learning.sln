@@ -99,6 +99,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "GetStartedWithCs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions101", "GetStartedWithCsharp\CsharpDebugging\Exceptions101\Exceptions101.csproj", "{E3EF5514-D10B-4F3D-B601-70EA43310B13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowExceptions101", "GetStartedWithCsharp\CsharpDebugging\ThrowExceptions101\ThrowExceptions101.csproj", "{5809C71D-7077-4441-8140-6F0BB196EB2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -245,6 +247,10 @@ Global
 		{E3EF5514-D10B-4F3D-B601-70EA43310B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3EF5514-D10B-4F3D-B601-70EA43310B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3EF5514-D10B-4F3D-B601-70EA43310B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5809C71D-7077-4441-8140-6F0BB196EB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5809C71D-7077-4441-8140-6F0BB196EB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5809C71D-7077-4441-8140-6F0BB196EB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5809C71D-7077-4441-8140-6F0BB196EB2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -297,6 +303,7 @@ Global
 		{D99C8A0A-C095-460E-A3D3-14CB4956BA05} = {202DC13C-7A8B-414E-B225-015F2B711EB6}
 		{DD8FCBB8-21A7-49B6-93C2-8E869B307117} = {202DC13C-7A8B-414E-B225-015F2B711EB6}
 		{E3EF5514-D10B-4F3D-B601-70EA43310B13} = {F7A26028-9A41-4498-A555-3B08C9D378D7}
+		{5809C71D-7077-4441-8140-6F0BB196EB2B} = {F7A26028-9A41-4498-A555-3B08C9D378D7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF2ADA74-C73C-4FD7-A80C-D3286A999938}

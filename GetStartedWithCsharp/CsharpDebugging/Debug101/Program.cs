@@ -22,7 +22,7 @@ foreach (string name in names)
     Console.WriteLine(messageText + "\n\r");
 }
 
-bool pauseCode = true;
+//bool pauseCode = true;
 //while (pauseCode == true);
 
 static string SophiaMessage()
@@ -52,7 +52,7 @@ for (int i = 0; i < productCount; i++)
     }
 }
 
-pauseCode = true;
+//bool pauseCode = true;
 //while (pauseCode == true) ;
 
 static void LoadProducts(string[,] products, int productCount)

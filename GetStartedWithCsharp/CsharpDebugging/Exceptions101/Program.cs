@@ -166,25 +166,27 @@ Console.WriteLine("");
 
 
 // Exercise 2 
-try
+checked
 {
-    int num1 = int.MaxValue;
-    int num2 = int.MaxValue;
-    int result;
-    checked
+    try
     {
-        result = num1 + num2;
+        int num1 = int.MaxValue;
+        int num2 = int.MaxValue;
+        int result = num1 + num2;
+
+        Console.WriteLine("Result: " + result);
     }
-    Console.WriteLine("Result: " + result);
-}
-catch (OverflowException ex)
-{
-    Console.WriteLine("Error: The number is too large to be represented as an integer. " + ex.Message);
+    catch (OverflowException ex)
+    {
+        Console.WriteLine("Error: The number is too large to be represented as an integer. " + ex.Message);
+    }
 }
 try
 {
-    string str = null;
+    string? str = null;
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
     int length = str.Length;
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
     Console.WriteLine("String Length: " + length);
 }
 catch (NullReferenceException ex)
